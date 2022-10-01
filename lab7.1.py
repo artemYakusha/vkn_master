@@ -7,3 +7,4 @@ for i in s1:
         s3 += i
 print(s3)
 
+
